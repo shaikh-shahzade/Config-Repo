@@ -1,5 +1,5 @@
 build:
-  version: "6.0"
+  version: "7.0"
 
 loans:
   message: "Welcome to demo loans related local APIs "
